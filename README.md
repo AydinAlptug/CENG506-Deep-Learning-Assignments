@@ -10,10 +10,11 @@ This practical contains 4 questions and the aim is to get familiar with the tens
 ### Practical II: [PDF](https://github.com/AydinAlptug/CENG506-Deep-Learning-Assignments/blob/master/Practicals/Documents%20of%20Professor%20Fleuret/dlc-practical-2.pdf)
 This practical contains 4 questions and the aim is to deal with a data-set, KNN, PCA dimension reduction along with continuing to practice tensor operations.
 
-***Rest will be added when I am available***
+### Practical III: [PDF](https://github.com/AydinAlptug/CENG506-Deep-Learning-Assignments/blob/master/Practicals/Documents%20of%20Professor%20Fleuret/dlc-practical-3.pdf)
+This practical contains 4 questions and the aim is to meet with the concepts of activation function, loss function, forward and backward passes.
 
 ## Assignments
-Assignments belong to the DL course of IZTECH provided by Asst. Prof. Mustafa Ozuysal.
+Assignments belong to the DL course of IZTECH provided by [Asst. Prof. Mustafa Ozuysal](http://web.iyte.edu.tr/~mustafaozuysal/index.html).
 
 ### Assignment I
 Evaluating the performance of the following fully-connected neural network architectures on the full MNIST dataset:
